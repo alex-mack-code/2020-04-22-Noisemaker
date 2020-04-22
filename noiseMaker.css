@@ -88,7 +88,7 @@
   .heading h1{
       color: ghostwhite;
       font-family: 'Baloo Tammudu 2', cursive;
-      
+      text-align: center;
   }
 
   /* Testing the javascript HTML */
@@ -98,4 +98,5 @@
         font-family: 'Baloo Tammudu 2', cursive;
         margin-left: 30%;
         margin-right: 30%;
+        text-align: center;
   }
